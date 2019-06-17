@@ -1,6 +1,6 @@
 ---
 name: "⛔ Support"
-about: 'Visit our Discord for installation help: https://theseedmc.com/discord'
+about: 'Visit our Discord for help: https://theseedmc.com/discord'
 
 ---
 
